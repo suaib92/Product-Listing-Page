@@ -14,7 +14,7 @@ This project demonstrates how to create a responsive product listing page using 
 1. **Clone the Repository**: Clone this repository to your local machine.
 
    ```bash
-   git clone https://your-github-repo-url.git
+   git clone [https://your-github-repo-url.git](https://github.com/suaib92/Product-Listing-Page.git)
    cd my-product-listing
    ```
 
